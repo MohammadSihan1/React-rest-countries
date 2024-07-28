@@ -1,7 +1,10 @@
 .style{
-    border: 3px dashed goldenrod;
+    border: 2px dashed goldenrod;
     border-radius: 15px;
-    padding: 25px;
+    padding: 15px;
     margin-bottom: 20px;
     text-align: center;
+}
+.visited{
+    background: rgba(91, 153, 245, 0.61);
 }
